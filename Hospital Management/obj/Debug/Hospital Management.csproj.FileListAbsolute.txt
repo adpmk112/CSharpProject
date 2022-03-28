@@ -1,0 +1,38 @@
+D:\SE\Hospital Management\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe.config
+D:\SE\Hospital Management\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe
+D:\SE\Hospital Management\Hospital Management\Hospital Management\bin\Debug\Hospital Management.pdb
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csprojResolveAssemblyReference.cache
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Main.resources
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Properties.Resources.resources
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.GenerateResource.Cache
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital Management.pdb
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_Booking.resources
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_UserRegister.resources
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_UserLogin.resources
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_Patient.resources
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_BookingDetail.resources
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_Doctor.resources
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_Specialist.resources
+D:\SE\Hospital Management\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_Schedule.resources
+D:\Hospital_Management\Hospital Management\bin\Debug\Hospital Management.exe.config
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital Management.exe
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital Management.pdb
+D:\Hospital_Management\Hospital Management\bin\Debug\Hospital Management.exe
+D:\Hospital_Management\Hospital Management\bin\Debug\Hospital Management.pdb
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_Booking.resources
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_BookingDetail.resources
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_Doctor.resources
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_Patient.resources
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_Schedule.resources
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_Specialist.resources
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_UserLogin.resources
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital_Management.Forms.frm_UserRegister.resources
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital_Management.Main.resources
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital_Management.Properties.Resources.resources
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital Management.csproj.GenerateResource.Cache
+D:\CSharp\Project\Hospital_Management\Hospital Management\obj\Debug\Hospital Management.csprojAssemblyReference.cache
+D:\CSharp\Project\Hospital_Management\Hospital Management\obj\Debug\Hospital Management.exe
+D:\CSharp\Project\Hospital_Management\Hospital Management\obj\Debug\Hospital Management.pdb
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital Management.csproj.CoreCompileInputs.cache
+D:\Hospital_Management\Hospital Management\obj\Debug\Hospital Management.csprojAssemblyReference.cache
